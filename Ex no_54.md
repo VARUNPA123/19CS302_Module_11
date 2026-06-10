@@ -29,8 +29,8 @@ int main()
 ```
 
 ## Output:
+<img width="1127" height="159" alt="image" src="https://github.com/user-attachments/assets/9bfef9e4-c2fe-4a31-841e-e06dafec499d" />
 
-![image](https://github.com/user-attachments/assets/19dc5de0-1868-49eb-ae01-387170e6b6bc)
 
 
 ## Result:
