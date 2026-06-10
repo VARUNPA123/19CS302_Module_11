@@ -64,8 +64,7 @@ int main() {
 ```
 
 ## Output:
-
-![image](https://github.com/user-attachments/assets/56f5c64c-b809-461f-8156-695f95722459)
+<img width="1128" height="301" alt="image" src="https://github.com/user-attachments/assets/a631caee-d9fd-4b5f-ae44-a7d4dc561c9a" />
 
 
 ## Result:
